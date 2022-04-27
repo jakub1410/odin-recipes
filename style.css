@@ -1,0 +1,10 @@
+.one{
+    background-color: aquamarine;
+    text-align: center;
+}
+.list{
+    background-color: rgb(46, 180, 22);
+    text-align: justify;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
