@@ -10,7 +10,7 @@ body{
     margin-top: 0;
 }
 .list{
-    background-color: rgb(46, 180, 22);
+    background-color: rgba(141, 135, 37, 0.773);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -43,15 +43,21 @@ h1{
 }
 p,
 li{
-        text-align: justify;
-        font-family: "Georgia" serif;
-        font-weight: bold;
-        background-color: rgb(158, 137, 178);
-        padding: 8px;
+
+    text-align: justify;
+    font-family: "Georgia" serif;
+    background-color: rgb(158, 137, 178);
+    padding: 8px;
+    border: 3px solid azure;
+    width: 700px;
+    margin-right: 300px;
+    margin-left: 70px;
+    font-size: 18px;
 }
 h2{
     font-weight: bold;
     font-size: 30px;
     background-color: #b2ad7f;
+    margin-left: 70px; 
 }
-/* secodn
+/* second */
